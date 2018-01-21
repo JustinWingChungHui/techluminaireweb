@@ -1,0 +1,27 @@
+{
+  "name": "techluminaireweb",
+  "version": "1.0.0",
+  "description": "Website of Tech Luminaire.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinWingChungHui/techluminaireweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinWingChungHui/techluminaireweb/issues"
+  },
+  "homepage": "https://github.com/JustinWingChungHui/techluminaireweb#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-awspublish": "^3.3.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-cloudfront-invalidate-aws-publish": "^0.2.3",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^2.0.0"
+  }
+}
